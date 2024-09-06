@@ -2,7 +2,7 @@
 
 npm needs to be installed 
 
-##IDEs
+## IDEs
 I used webstorm but the project should work on VS code also
 
 ## Commands
